@@ -85,6 +85,6 @@
 <p><span style="font-weight: 400;">Raindrops under Leaves during rain&nbsp;</span></p>
 <p><span style="font-weight: 400;">Fullscreen video setting that is remembered at game startup</span></p>
 <p><span style="font-weight: 400;">Separate Cloud and Leaves settings&nbsp;</span></p>
-<p><span style="font-weight: 400;">Durability tooltip for tools&nbsp;</span></p>
+<p><span style="font-weight: 400;">Durability tooltip for damageable items&nbsp;</span></p>
 <p><span style="font-weight: 400;">Weapons/Tools from mobs drop with random durability</span></p>
 <p><span style="font-weight: 400;">Readded Farlands </span></p>
