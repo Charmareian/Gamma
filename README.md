@@ -1,6 +1,6 @@
 # Minecraft Gamma
 <p><img /><img src="https://github.com/Charmareian/Gamma/blob/main/extreme.png?raw=true" alt="" width="480" height="270" /></p>
-<p><span style="font-weight: 400;">[World Rework]</span></p>
+<p><span style="font-weight: 400;">[World Changes]</span></p>
 <p><span style="font-weight: 400;">New climate system with improved biome transitions</span></p>
 <p><span style="font-weight: 400;">Beta-like terrain&nbsp;</span></p>
 <p><span style="font-weight: 400;">Smaller Oceans&nbsp;</span></p>
