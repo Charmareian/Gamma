@@ -73,6 +73,7 @@
 <p><span style="font-weight: 400;">Sponges are now functional</span></p>
 <p><span style="font-weight: 400;">TNT explosions drop all blocks&nbsp;</span></p>
 <p><span style="font-weight: 400;">Better stack sizes and/or recipe outputs for Doors/Trapdoors/Signs/Stairs</span></p>
+<p><span style="font-weight: 400;">Obsidian mining time has been reduced from 9.4 seconds to 2.5</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Extra Features]</span></p>
 <p><span style="font-weight: 400;">Small Biomes and Amplified World Types</span></p>
