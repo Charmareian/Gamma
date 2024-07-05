@@ -75,6 +75,7 @@
 <p><span style="font-weight: 400;">Better stack sizes and/or recipe outputs for Doors/Trapdoors/Signs/Stairs</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Extra Features]</span></p>
+<p><span style="font-weight: 400;">Small Biomes and Amplified World Types</span></p>
 <p><span style="font-weight: 400;">Fishing loot pool</span></p>
 <p><span style="font-weight: 400;">Furnaces accept many new fuel sources&nbsp;</span></p>
 <p><span style="font-weight: 400;">Boats drop themselves, don't break when crashing, are faster and don't move without an entity inside</span></p>
