@@ -28,7 +28,7 @@
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Mob Changes]</span></p>
 <p><span style="font-weight: 400;">Zombies are now 30% faster to compensate for sprinting</span></p>
-<p><span style="font-weight: 400;">Spiders jump twice as often as they did in Indev</span></p>
+<p><span style="font-weight: 400;">Spiders jump twice as often like they did in Indev</span></p>
 <p><span style="font-weight: 400;">Creepers explode while walking again (Like Release 1.1 and below)</span></p>
 <p><span style="font-weight: 400;">Enderman no longer remove or place blocks. Instead, they duplicate blocks and drop them upon death&nbsp;</span></p>
 <p><span style="font-weight: 400;">Ghast explosions no longer destroy blocks&nbsp;</span></p>
