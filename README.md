@@ -14,7 +14,7 @@
 <p><span style="font-weight: 400;">Armor sets now have their own Protection types</span></p>
 <p><span style="font-weight: 400;">Gold equipment lasts longer</span></p>
 <p><span style="font-weight: 400;">Gold tools have Silk Touch with their own lists of previously unobtainable blocks&nbsp;</span></p>
-<p><span style="font-weight: 400;">Gold Swords deal more damage than Diamond Swords, but have much less durability</span></p>
+<p><span style="font-weight: 400;">Gold Swords now set mobs on fire</span></p>
 <p><span style="font-weight: 400;">Added Iron/Magic Arrows (Iron/Lapis tip)</span></p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">[Hunger Rework]</span></p>
